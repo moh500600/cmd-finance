@@ -55,7 +55,6 @@ const Map<String, List<String>> kStrings = {
   'amount': ['المبلغ', 'Amount'],
   'amount_received': ['المبلغ المستلَم', 'Amount received'],
   'amount_sent': ['المبلغ المرسَل', 'Amount sent'],
-  'anon_key_note': ['مفتاح anon العام فقط — لا تضع أبداً مفتاح service_role في التطبيق.', 'Use the public anon key only — never put the service_role key in the app.'],
   'app_lock': ['قفل التطبيق', 'App lock'],
   'app_name': ['CMD Finance', 'CMD Finance'],
   'app_tagline': ['إدارة مالية احترافية لحياتك وعملك', 'Professional money management for life and work'],
