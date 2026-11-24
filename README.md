@@ -21,7 +21,7 @@ Open the release page and pick **`cmd-finance-0.1.0-arm64-v8a.apk`** for most ph
 SHA-256 of the arm64-v8a file:
 
 ```
-40ff08541b02d779a6dd08be66bd1efacd8d11e31caf3a95a21a9930e66a8ae6
+31f8718a4758f3b18b977ed0847d089c995b447027525f802ee5a82f498a9eee
 ```
 
 Android will ask you to allow installing from an unknown source. The APK is signed with a new CMD key made for this app.
